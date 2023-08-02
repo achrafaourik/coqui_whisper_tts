@@ -1,1 +1,1 @@
-git clone https://github.com/achrafaourik/coqui_whisper_tts.git && cd coqui_whisper_tts && ./bash_script.sh
+apt install -y dos2unix && git clone https://github.com/achrafaourik/coqui_whisper_tts.git && cd coqui_whisper_tts && dos2unix bash_script.sh &&  ./bash_script.sh
