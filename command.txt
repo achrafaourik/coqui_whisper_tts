@@ -1,1 +1,1 @@
-git clone https://github.com/achrafaourik/coqui_whisper_tts.git && ./bash_script.sh
+git clone https://github.com/achrafaourik/coqui_whisper_tts.git && cd coqui_whisper_tts && ./bash_script.sh
