@@ -1,0 +1,1 @@
+git clone https://github.com/achrafaourik/coqui_whisper_tts.git && ./bash_script.sh
